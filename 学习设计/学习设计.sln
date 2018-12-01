@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "学习设计", "学习设计.csproj", "{C4E0B1F2-FCFE-2942-273E-853A66F1D249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E0B1F2-FCFE-2942-273E-853A66F1D249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E0B1F2-FCFE-2942-273E-853A66F1D249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E0B1F2-FCFE-2942-273E-853A66F1D249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E0B1F2-FCFE-2942-273E-853A66F1D249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
